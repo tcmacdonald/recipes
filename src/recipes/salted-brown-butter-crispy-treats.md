@@ -1,0 +1,17 @@
+---
+title: Salted Brown Butter Crispy Treats
+image_url: https://cdn2.pepperplate.com/recipes/004c6c774f1346e1939f62d08e555acf.jpg
+source_name: Smitten Kitchen
+source_url: http://smittenkitchen.com/blog/2009/11/salted-brown-butter-crispy-treats/
+ingredients:
+  - 4 ounces (1/4 pound or 1 stick) unsalted butter, plus extra for the pan
+  - 1 10-ounce bag marshmallows Heaping
+  - 1/4 teaspoon coarse sea salt
+  - 6 cups Rice Krispies cereal (about half a 12-ounce box)
+---
+
+* Butter (or coat with non-stick spray) an 8-inch square cake pan with 2-inch sides.
+* In a large pot, melt butter over medium-low heat. It will melt, then foam, then turn clear golden and finally start to turn brown and smell nutty. Stir frequently, scraping up any bits from the bottom as you do. Don’t take your eyes off the pot as while you may be impatient for it to start browning, the period between the time the butter begins to take on color and the point where it burns is often less than a minute.
+* As soon as the butter takes on a nutty color, turn the heat off and stir in the marshmallows. The residual heat from the melted butter should be enough to melt them, but if it is not, turn it back on low until the marshmallows are smooth.
+* Remove the pot from the stove and stir in the salt and cereal together. Quickly spread into prepared pan. I liked to use a piece of waxed or parchment paper that I’ve sprayed with oil to press it firmly and evenly into the edges and corners, though a silicon spatula works almost as well.
+* Let cool, cut into squares and get ready to make new friends.
