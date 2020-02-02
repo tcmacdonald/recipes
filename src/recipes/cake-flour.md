@@ -1,5 +1,6 @@
 ---
 title: Cake Flour
+slug: cake-flour
 image_url: https://cdn2.pepperplate.com/recipes/8f54c19fc96c4bbcb2d0446ad1f3d5a7.jpg
 source_name: Joy the Baker
 source_url: http://joythebaker.com/2009/09/how-to-make-cake-flour/

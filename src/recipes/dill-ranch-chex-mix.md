@@ -1,5 +1,6 @@
 ---
 title: Dill Ranch Chex Mix
+slug: dill-ranch-chex-mix
 source_name: Food.com
 source_url: http://www.food.com/recipe/dill-ranch-chex-mix-464916
 ingredients:

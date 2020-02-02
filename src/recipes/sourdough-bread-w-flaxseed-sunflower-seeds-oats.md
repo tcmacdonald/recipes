@@ -1,5 +1,6 @@
 ---
 title: Sourdough Bread W/ Flaxseed, Sunflower Seeds & Oats
+slug: sourdough-bread-w-flaxseed-sunflower-seeds-oats
 ingredients:
   - 595 gram Bread Flour (4.5 Cups)
   - 203 gram Whole Wheat Flour (1.5 Cups)

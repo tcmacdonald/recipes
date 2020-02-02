@@ -1,5 +1,6 @@
 ---
 title: Louisiana Red Beans & Rice
+slug: louisiana-red-beans-rice
 ingredients:
   - 1 lb small red beans, rinsed and picked over (can only find at wal-mart)
   - 4 slices bacon, chopped fine

@@ -1,5 +1,6 @@
 ---
 title: Easy, Easy Saffron Chicken Recipe
+slug: easy-easy-saffron-chicken-recipe
 source_name: Chow
 source_url: http://www.chow.com/recipes/11874-easy-easy-saffron-chicken
 ingredients:

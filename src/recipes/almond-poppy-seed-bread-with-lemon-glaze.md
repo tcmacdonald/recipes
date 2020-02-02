@@ -1,5 +1,6 @@
 ---
 title: Almond Poppy Seed Bread with Lemon Glaze
+slug: almond-poppy-seed-bread-with-lemon-glaze
 image_url:
 source_name: A Farm Girl Dabbles
 source_url: http://www.afarmgirlsdabbles.com/2013/09/04/almond-poppy-seed-bread-with-lemon-glaze-recipe/

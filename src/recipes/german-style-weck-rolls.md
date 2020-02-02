@@ -1,5 +1,6 @@
 ---
 title: German-Style Weck Rolls
+slug: german-style-weck-rolls
 image_url: https://cdn2.pepperplate.com/recipes/5edc41379b1146929a6f908e95a397d4.jpg
 source_name: All Recipes
 source_url: http://allrecipes.com/recipe/german-style-weck-rolls/

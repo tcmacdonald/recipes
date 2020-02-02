@@ -1,5 +1,6 @@
 ---
 title: Crab Cakes
+slug: crab-cakes
 image_url: https://cdn2.pepperplate.com/recipes/347618aa25ec4f2d814af95899075551.jpg
 source_name: Food 52
 source_url: http://food52.com/recipes/18201-brigit-binns-crab-cakes

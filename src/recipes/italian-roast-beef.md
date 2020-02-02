@@ -1,5 +1,6 @@
 ---
 title: Italian Roast Beef
+slug: italian-roast-beef
 source_name: Examiner
 source_url: http://www.examiner.com/article/italian-roast-beef-and-simple-marinara-sauce
 ingredients:

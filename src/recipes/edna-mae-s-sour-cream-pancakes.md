@@ -1,5 +1,6 @@
 ---
 title: Edna Mae's Sour Cream Pancakes
+slug: edna-mae-s-sour-cream-pancakes
 image_url: https://cdn2.pepperplate.com/recipes/e004a4dc9bbb41809d08c2edc227aba8.jpg
 source_name: Smitten Kitchen
 source_url: http://smittenkitchen.com/blog/2010/01/edna-maes-sour-cream-pancakes/

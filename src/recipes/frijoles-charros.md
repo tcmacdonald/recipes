@@ -1,5 +1,6 @@
 ---
 title: Frijoles Charros
+slug: frijoles-charros
 image_url: https://cdn2.pepperplate.com/recipes/57aba24a6058408a93b3b02c06c73871.jpg
 source_name: Rick Bayless
 source_url: http://www.rickbayless.com/recipe/cowboy-beans/

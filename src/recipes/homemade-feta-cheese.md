@@ -1,5 +1,6 @@
 ---
 title: Homemade Feta Cheese
+slug: homemade-feta-cheese
 image_url: https://cdn2.pepperplate.com/recipes/1cc809607e31464a9ab83b43045c2fd7.jpg
 source_name: Food 52
 source_url: http://food52.com/blog/7977-how-to-make-feta-cheese

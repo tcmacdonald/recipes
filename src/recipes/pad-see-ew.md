@@ -1,5 +1,6 @@
 ---
 title: Pad See Ew
+slug: pad-see-ew
 source_name: Thai Table
 source_url: http://www.thaitable.com/thai/recipe/pad-see-ew
 ingredients:

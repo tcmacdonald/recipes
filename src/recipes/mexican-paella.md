@@ -1,5 +1,6 @@
 ---
 title: Mexican Paella
+slug: mexican-paella
 image_url: https://cdn2.pepperplate.com/recipes/e2a7be87a5714ab2996ef6419f4114fa.jpg
 source_name: Martha Stewart
 source_url: http://www.marthastewart.com/334231/mexican-paella

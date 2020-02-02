@@ -1,5 +1,6 @@
 ---
 title: Skirt Steak Salad with Blue Cheese
+slug: skirt-steak-salad-with-blue-cheese
 image_url: https://cdn2.pepperplate.com/recipes/6703d439367644c19dd3a699f2e4a750.jpg
 source_name: Smitten Kitchen
 source_url: http://smittenkitchen.com/blog/2010/09/skirt-steak-salad-with-arugula-and-blue-cheese/

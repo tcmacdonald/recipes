@@ -1,5 +1,6 @@
 ---
 title: Barbacoa Enchiladas
+slug: barbacoa-enchiladas
 image_url: https://cdn2.pepperplate.com/recipes/309bb40604d547f3a8042fca329cf0c3.jpg
 ingredients:
   - 1 1/2 pounds beef roast

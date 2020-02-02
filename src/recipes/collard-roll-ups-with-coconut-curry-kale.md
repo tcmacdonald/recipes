@@ -1,5 +1,6 @@
 ---
 title: Collard Roll Ups with Coconut Curry Kale
+slug: collard-roll-ups-with-coconut-curry-kale
 image_url: https://cdn2.pepperplate.com/recipes/cd9f7d7f96b445928a094644f1e4e96a.jpg
 source_name: Food 52
 source_url: http://food52.com/recipes/26341-collard-roll-ups-with-coconut-curry-kale

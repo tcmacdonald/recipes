@@ -1,5 +1,6 @@
 ---
 title: Buttermilk Glaze
+slug: buttermilk-glaze
 image_url: https://cdn2.pepperplate.com/recipes/e05bc86a1ff045318e6adf1bf8e7faca.jpg
 source_name: My Recipes
 source_url: http://www.myrecipes.com/recipe/buttermilk-glaze-10000000300302/

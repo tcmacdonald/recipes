@@ -1,5 +1,6 @@
 ---
 title: Homemade Pastrami
+slug: homemade-pastrami
 source_name: Tori Avey
 source_url: https://toriavey.com/toris-kitchen/homemade-pastrami/
 ingredients:

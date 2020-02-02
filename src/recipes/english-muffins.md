@@ -1,5 +1,6 @@
 ---
 title: English Muffins
+slug: english-muffins
 source_name: She Simmers
 source_url: http://shesimmers.com/2009/03/homemade-english-muffins-complete-with-nooks-and-crannies.html
 ingredients:

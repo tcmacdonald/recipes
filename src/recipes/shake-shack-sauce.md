@@ -1,5 +1,6 @@
 ---
 title: Shake Shack Sauce
+slug: shake-shack-sauce
 source_name: Serious Eats
 source_url: http://www.seriouseats.com/recipes/2009/10/the-fake-shack-shake-shack-burger-recipe.html
 ingredients:

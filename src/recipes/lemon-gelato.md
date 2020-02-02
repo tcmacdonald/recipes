@@ -1,5 +1,6 @@
 ---
 title: Lemon Gelato
+slug: lemon-gelato
 image_url: https://cdn2.pepperplate.com/recipes/af7d8c56d95a4e8691ed3ca278d7f21b.jpg
 source_name: Williams Sonoma
 source_url: http://www.williams-sonoma.com/recipe/lemon-gelato.html

@@ -1,5 +1,6 @@
 ---
 title: Weeknight Bolognese
+slug: weeknight-bolognese
 image_url: https://cdn2.pepperplate.com/recipes/6c4ea706aef748f983544908d72365ea.jpg
 source_name: Food Network
 source_url: http://www.foodnetwork.com/recipes/ina-garten/weeknight-bolognese-recipe.html

@@ -1,5 +1,6 @@
 ---
 title: Saffron Chicken Kababs
+slug: saffron-chicken-kababs
 source_name: Turmeric Saffron
 source_url: http://turmericsaffron.blogspot.com/2010/09/joojeh-kabab-persian-grilled-saffron.html?m=1
 ingredients:

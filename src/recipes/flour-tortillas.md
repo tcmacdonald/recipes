@@ -1,5 +1,6 @@
 ---
 title: Flour Tortillas
+slug: flour-tortillas
 image_url: https://cdn2.pepperplate.com/recipes/2f426d3ee22b48e883dcd45acba89d78.jpg
 source_name: Cafe Sucre Farine
 source_url: http://thecafesucrefarine.com/2013/08/best-ever-homemade-flour-tortillas/

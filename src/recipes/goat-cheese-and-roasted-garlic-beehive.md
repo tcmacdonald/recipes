@@ -1,5 +1,6 @@
 ---
 title: Goat Cheese and Roasted Garlic Beehive
+slug: goat-cheese-and-roasted-garlic-beehive
 ingredients:
   - 5 lb. whole garlic heads, unpeeled
   - 1/4 cup extra-virgin olive oil

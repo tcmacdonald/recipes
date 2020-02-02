@@ -1,5 +1,6 @@
 ---
 title: Orange-Yuzu Glazed Chicken with Wild Rice Salad
+slug: orange-yuzu-glazed-chicken-with-wild-rice-salad
 ingredients:
   - 2 tablespoons of orange juice and grated zest of
   - 1/2 orange 2 tablespoons of yuzu juice or ponzu

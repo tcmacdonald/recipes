@@ -1,5 +1,6 @@
 ---
 title: Loaded Nachos
+slug: loaded-nachos
 image_url: https://cdn2.pepperplate.com/recipes/411812b2009446e683be5e52c3d3c703.jpg
 source_name: The Pioneer Woman
 source_url: http://thepioneerwoman.com/cooking/2013/05/loaded-nachos/

@@ -1,5 +1,6 @@
 ---
 title: Homemade Mayonnaise
+slug: homemade-mayonnaise
 image_url: https://cdn2.pepperplate.com/recipes/1429072a1503405fb16077a60676a87f.jpg
 source_name: The Hungry Mouse
 source_url: http://www.thehungrymouse.com/2013/05/27/homemade-mayonnaise/

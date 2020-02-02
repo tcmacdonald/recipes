@@ -1,5 +1,6 @@
 ---
 title: Spiked Cranberry Relish
+slug: spiked-cranberry-relish
 source_name: NYTimes
 source_url: http://www.nytimes.com/recipes/765/spiked-cranberry-relish.html
 ingredients:

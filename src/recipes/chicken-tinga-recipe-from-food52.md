@@ -1,5 +1,6 @@
 ---
 title: Chicken Tinga Recipe From Food52
+slug: chicken-tinga-recipe-from-food52
 image_url: https://cdn2.pepperplate.com/recipes/554f366cfa294f109eae86c08eb38ca3.jpg
 source_name: Food 52
 source_url: http://food52.com/recipes/22740-chicken-tinga

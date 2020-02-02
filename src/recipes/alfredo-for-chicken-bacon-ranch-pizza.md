@@ -1,5 +1,6 @@
 ---
 title: Alfredo For Chicken Bacon Ranch Pizza
+slug: alfredo-for-chicken-bacon-ranch-pizza
 image_url:
 source_name: Food.com
 source_url: http://www.food.com/recipe/chicken-bacon-ranch-pizza-374727

@@ -1,5 +1,6 @@
 ---
 title: Cream Cheese Frosting
+slug: cream-cheese-frosting
 source_name: My Recipes
 source_url: http://www.myrecipes.com/recipe/cream-cheese-frosting-10000000522565/
 ingredients:

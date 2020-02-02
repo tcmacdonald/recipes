@@ -1,5 +1,6 @@
 ---
 title: Coffee-Chile Dry Rub
+slug: coffee-chile-dry-rub
 source_name: NYTimes
 source_url: http://cooking.nytimes.com/recipes/1017496-coffee-chile-dry-rub?smid=tw-nytimes
 ingredients:

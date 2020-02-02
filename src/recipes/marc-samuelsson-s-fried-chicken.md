@@ -1,5 +1,6 @@
 ---
 title: Marc Samuelsson's Fried Chicken
+slug: marc-samuelsson-s-fried-chicken
 image_url: https://cdn2.pepperplate.com/recipes/c278849b8ed644d4874de30ae56104d7.jpg
 source_name: Marcus Samuelsson
 source_url: http://www.gq.com/story/chef-marcus-samuelssons-harlem-approved-fried-chicken

@@ -1,5 +1,6 @@
 ---
 title: Pickled Red Onions
+slug: pickled-red-onions
 image_url: https://cdn2.pepperplate.com/recipes/98c458ac8bcb4f848e764d41c5be8ace.jpg
 ingredients:
   - 3/4 C white vinegar

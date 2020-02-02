@@ -1,5 +1,6 @@
 ---
 title: Raw Oysters with Classic Mignonette Garnish
+slug: raw-oysters-with-classic-mignonette-garnish
 source_name: Whole Foods
 source_url: http://m.wholefoodsmarket.com/recipe/raw-oysters-classic-mignonette-garnish
 ingredients:

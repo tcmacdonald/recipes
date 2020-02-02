@@ -1,5 +1,6 @@
 ---
 title: Taco stack
+slug: taco-stack
 image_url: https://cdn2.pepperplate.com/recipes/9cd17e61996e400ea403afcc005680b7.jpg
 ingredients:
   - 8 oz sour cream

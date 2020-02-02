@@ -1,5 +1,6 @@
 ---
 title: Fluffy Buttermilk-Mashed Potatoes
+slug: fluffy-buttermilk-mashed-potatoes
 source_name: NYTimes
 source_url: http://www.nytimes.com/recipes/41/fluffy-buttermilk-mashed-potatoes.html
 ingredients:

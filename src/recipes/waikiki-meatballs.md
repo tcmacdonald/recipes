@@ -1,5 +1,6 @@
 ---
 title: Waikiki Meatballs
+slug: waikiki-meatballs
 ingredients:
   - 1 1/2 lb of ground beef
   - 2/3 cup cracker crumbs

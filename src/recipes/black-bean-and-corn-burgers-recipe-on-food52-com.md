@@ -1,5 +1,6 @@
 ---
 title: Black Bean and Corn Burgers Recipe On Food52.Com
+slug: black-bean-and-corn-burgers-recipe-on-food52-com
 source_name: Food 52
 source_url: http://food52.com/recipes/23748-black-bean-and-corn-burgers
 ingredients:

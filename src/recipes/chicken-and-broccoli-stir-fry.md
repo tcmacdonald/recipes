@@ -1,5 +1,6 @@
 ---
 title: Chicken and Broccoli Stir-Fry
+slug: chicken-and-broccoli-stir-fry
 image_url:
 source_name: Food Network
 source_url: http://www.foodnetwork.com/recipes/food-network-kitchens/chicken-and-broccoli-stir-fry-recipe/index.html

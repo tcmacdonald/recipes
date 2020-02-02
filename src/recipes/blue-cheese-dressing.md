@@ -1,5 +1,6 @@
 ---
 title: Blue Cheese Dressing
+slug: blue-cheese-dressing
 image_url: https://cdn2.pepperplate.com/recipes/092757df4eb344c99754b7cbcdb445a6.jpg
 ingredients:
   - 4 ounces blue cheese, crumbled

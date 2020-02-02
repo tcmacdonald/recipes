@@ -1,5 +1,6 @@
 ---
 title: Olive Nut Spread
+slug: olive-nut-spread
 image_url: https://cdn2.pepperplate.com/recipes/c222911a38114b2da8ae659b2734250d.jpg
 ingredients:
   - 6 ounces cream cheese, softened, i use low fat

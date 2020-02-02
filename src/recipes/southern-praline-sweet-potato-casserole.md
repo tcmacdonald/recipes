@@ -1,5 +1,6 @@
 ---
 title: Southern Praline Sweet Potato Casserole
+slug: southern-praline-sweet-potato-casserole
 source_name: Food.com
 source_url: http://www.food.com/recipe/southern-praline-sweet-potato-casserole-39524
 ingredients:

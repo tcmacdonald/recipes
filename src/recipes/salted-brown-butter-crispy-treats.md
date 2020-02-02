@@ -1,5 +1,6 @@
 ---
 title: Salted Brown Butter Crispy Treats
+slug: salted-brown-butter-crispy-treats
 image_url: https://cdn2.pepperplate.com/recipes/004c6c774f1346e1939f62d08e555acf.jpg
 source_name: Smitten Kitchen
 source_url: http://smittenkitchen.com/blog/2009/11/salted-brown-butter-crispy-treats/

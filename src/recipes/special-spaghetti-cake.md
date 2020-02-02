@@ -1,5 +1,6 @@
 ---
 title: Special Spaghetti Cake
+slug: special-spaghetti-cake
 ingredients:
   - 600 ml double cream
   - 4 large free-range eggs sea salt freshly ground black pepper

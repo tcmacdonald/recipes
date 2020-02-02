@@ -1,5 +1,6 @@
 ---
 title: Crunchy Asian Slaw
+slug: crunchy-asian-slaw
 image_url: https://cdn2.pepperplate.com/recipes/1954ab21220d41948607ca35a2e7187c.jpg
 source_name: Tasty Kitchen
 source_url: http://tastykitchen.com/blog/2013/07/crunchy-asian-slaw/

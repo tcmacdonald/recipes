@@ -1,5 +1,6 @@
 ---
 title: The Best Clam Chowder Recipe
+slug: the-best-clam-chowder-recipe
 image_url: https://cdn2.pepperplate.com/recipes/26fc857ec7fc47928113e34c4e59eb68.jpg
 source_name: NYTimes
 source_url: http://cooking.nytimes.com/recipes/1016717-the-best-clam-chowder

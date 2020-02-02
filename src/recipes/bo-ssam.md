@@ -1,5 +1,6 @@
 ---
 title: Bo Ssam
+slug: bo-ssam
 image_url: https://cdn2.pepperplate.com/recipes/95e8c1b947cf44bb9a1752b03cae4d45.jpg
 source_name: NYTimes
 source_url: http://www.nytimes.com/2012/01/15/magazine/recipe-momofuku-bo-ssam.html?_r=0

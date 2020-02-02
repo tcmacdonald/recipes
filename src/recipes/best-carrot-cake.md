@@ -1,5 +1,6 @@
 ---
 title: Best Carrot Cake
+slug: best-carrot-cake
 image_url: https://cdn2.pepperplate.com/recipes/2194d4491fb44207b16c156e391672d0.jpg
 source_name: My Recipes
 source_url: http://www.myrecipes.com/m/recipe/best-carrot-cake-10000000257583/

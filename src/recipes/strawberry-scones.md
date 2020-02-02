@@ -1,5 +1,6 @@
 ---
 title: Strawberry Scones
+slug: strawberry-scones
 image_url: https://cdn2.pepperplate.com/recipes/a3d9dcd3d670402db12ad3fdf213b3fa.jpg
 source_name: Jo Cooks
 source_url: https://www.jocooks.com/recipes/strawberry-scones/

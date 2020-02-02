@@ -1,5 +1,6 @@
 ---
 title: Green Curry with Chicken
+slug: green-curry-with-chicken
 image_url: https://cdn2.pepperplate.com/recipes/2d86360a176c4026bfc25621fe3fb4c3.jpg
 source_name: Thai Table
 source_url: http://www.thaitable.com/thai/recipe/green-curry-with-chicken

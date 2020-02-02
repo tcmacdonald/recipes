@@ -1,5 +1,6 @@
 ---
 title: Green Chicken Enchiladas
+slug: green-chicken-enchiladas
 source_name: Lil Luna
 source_url: https://lilluna.com/tutorial-tuesday-las-palmas-chicken-enchiladas/
 ingredients:

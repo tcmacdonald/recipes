@@ -1,5 +1,6 @@
 ---
 title: Chicken Wraps with Saffron Cilantro Sour Cream
+slug: chicken-wraps-with-saffron-cilantro-sour-cream
 image_url: https://cdn2.pepperplate.com/recipes/5a2fbccd22af425da0496f2bd0095d66.jpg
 source_name: The Nosh
 source_url: http://thenosh.wordpress.com/2009/12/15/im-a-just-mad-about-saffron-chicken-wraps-with-saffron-cilantro-sour-cream/

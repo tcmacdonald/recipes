@@ -1,5 +1,6 @@
 ---
 title: Sugar Steak with Bourbon Recipe From Food52
+slug: sugar-steak-with-bourbon-recipe-from-food52
 image_url: https://cdn2.pepperplate.com/recipes/d8a19999b7864b7fb06317de9bfe00cb.jpg
 source_name: Food 52
 source_url: http://food52.com/recipes/10252-sugar-steak-with-bourbon

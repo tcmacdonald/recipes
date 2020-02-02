@@ -1,5 +1,6 @@
 ---
 title: Skirt Steak Marinade
+slug: skirt-steak-marinade
 ingredients:
   - 1/2 cup olive oil
   - 1/3 cup soy sauce

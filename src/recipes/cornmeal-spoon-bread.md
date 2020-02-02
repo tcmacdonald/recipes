@@ -1,5 +1,6 @@
 ---
 title: Cornmeal Spoon Bread
+slug: cornmeal-spoon-bread
 image_url: https://cdn2.pepperplate.com/recipes/ebd3d9f9cc834e10848c14497179f647.jpg
 source_name: Savoring KY
 source_url: https://savoringkentucky.squarespace.com/recipes/breads/spoonbreadrecipe/

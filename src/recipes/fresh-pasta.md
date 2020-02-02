@@ -1,5 +1,6 @@
 ---
 title: Fresh Pasta
+slug: fresh-pasta
 source_name: Food Network
 source_url: http://www.foodnetwork.com/recipes/mario-batali/fresh-pasta-recipe.html
 ingredients:

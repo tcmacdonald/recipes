@@ -1,5 +1,6 @@
 ---
 title: Daddy Mac's Favorite Pancakes
+slug: daddy-mac-s-favorite-pancakes
 ingredients:
   - 1 egg
   - 1 cup buttermilk

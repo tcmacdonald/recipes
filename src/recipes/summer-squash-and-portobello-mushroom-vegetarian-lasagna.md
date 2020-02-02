@@ -1,5 +1,6 @@
 ---
 title: Summer Squash and Portobello Mushroom Vegetarian Lasagna
+slug: summer-squash-and-portobello-mushroom-vegetarian-lasagna
 image_url: https://cdn2.pepperplate.com/recipes/1418245e894045ebbc25b25bd8c124ce.jpg
 ingredients:
   - 6 medium crookneck or other summer squash or zucchini, sliced lengthwise, 1/8" thick

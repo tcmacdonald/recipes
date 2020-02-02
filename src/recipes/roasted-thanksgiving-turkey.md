@@ -1,5 +1,6 @@
 ---
 title: Roasted Thanksgiving Turkey
+slug: roasted-thanksgiving-turkey
 image_url: https://cdn2.pepperplate.com/recipes/1a5b83cd3d0a4f8abd692f75c4d4be76.jpg
 source_name: The Pioneer Woman
 source_url: http://thepioneerwoman.com/cooking/2007/10/roasted_thanksgiving_turkey/

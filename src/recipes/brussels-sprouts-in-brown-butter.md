@@ -1,5 +1,6 @@
 ---
 title: Brussels Sprouts in Brown Butter
+slug: brussels-sprouts-in-brown-butter
 image_url:
 source_name: NYTimes
 source_url: http://www.nytimes.com/recipes/384/brussels-sprouts-in-brown-butter.html

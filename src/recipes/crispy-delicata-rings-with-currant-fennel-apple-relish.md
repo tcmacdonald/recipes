@@ -1,5 +1,6 @@
 ---
 title: Crispy Delicata Rings with Currant, Fennel & Apple Relish
+slug: crispy-delicata-rings-with-currant-fennel-apple-relish
 image_url: https://cdn2.pepperplate.com/recipes/d0e0b61266e743b999f61a69a1ea9fc1.jpg
 source_name: Food 52
 source_url: http://food52.com/recipes/7840-crispy-delicata-rings-with-currant-fennel-apple-relish

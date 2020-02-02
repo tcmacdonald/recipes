@@ -1,5 +1,6 @@
 ---
 title: Blackened Chicken Spice Rub
+slug: blackened-chicken-spice-rub
 image_url: https://cdn2.pepperplate.com/recipes/2445bce161a7420a8161427e34938e4f.jpg
 ingredients:
   - 1 1/2 t. celery salt

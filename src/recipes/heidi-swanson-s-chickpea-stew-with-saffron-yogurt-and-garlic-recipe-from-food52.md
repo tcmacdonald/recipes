@@ -1,5 +1,6 @@
 ---
 title: Chickpea Stew with Saffron, Yogurt, and Garlic
+slug: heidi-swanson-s-chickpea-stew-with-saffron-yogurt-and-garlic-recipe-from-food52
 image_url: https://cdn2.pepperplate.com/recipes/d3e9fe03aee84267a6156eab140ce9d4.jpg
 source_name: Food 52
 source_url: http://food52.com/recipes/21849-heidi-swanson-s-chickpea-stew-with-saffron-yogurt-and-garlic

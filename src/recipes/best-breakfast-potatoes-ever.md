@@ -1,5 +1,6 @@
 ---
 title: Best Breakfast Potatoes Ever
+slug: best-breakfast-potatoes-ever
 image_url: https://cdn2.pepperplate.com/recipes/06d4b92e66d84bc98f7a1c71f01e210b.jpg
 source_name: The Pioneer Woman
 source_url: http://thepioneerwoman.com/cooking/2013/08/best-breakfast-potatoes-ever/

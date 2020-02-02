@@ -1,5 +1,6 @@
 ---
 title: Cheesy Chicken Spaghetti
+slug: cheesy-chicken-spaghetti
 image_url: https://cdn2.pepperplate.com/recipes/112be8ffb3f646409afad09eb8a4ebb5.jpg
 ingredients:
   - 1 pound spaghetti

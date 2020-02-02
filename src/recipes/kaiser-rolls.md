@@ -1,5 +1,6 @@
 ---
 title: Kaiser Rolls
+slug: kaiser-rolls
 source_name: Taste of Home
 source_url: http://www.tasteofhome.com/recipes/kaiser-rolls
 ingredients:

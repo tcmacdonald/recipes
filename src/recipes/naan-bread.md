@@ -1,5 +1,6 @@
 ---
 title: Naan Bread
+slug: naan-bread
 source_name: Hello Giggles
 source_url: http://hellogiggles.com/take-out-fake-out-homemade-naan-bread
 ingredients:

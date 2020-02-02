@@ -1,5 +1,6 @@
 ---
 title: Roasted Maple-Glazed Baby Carrots with Dried Grapes
+slug: roasted-maple-glazed-baby-carrots-with-dried-grapes
 source_name: NYTimes
 source_url: http://www.nytimes.com/recipes/244/roasted-maple-glazed-baby-carrots-with-dried-grapes.html
 ingredients:

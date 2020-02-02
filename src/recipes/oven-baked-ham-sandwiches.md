@@ -1,5 +1,6 @@
 ---
 title: Oven-Baked Ham Sandwiches
+slug: oven-baked-ham-sandwiches
 image_url: https://cdn2.pepperplate.com/recipes/c3e30b2a88c74192942546c7fbd4f51f.jpg
 ingredients:
   - 2 packages of sweet hawaiian rolls (the small dinner roll looking ones)

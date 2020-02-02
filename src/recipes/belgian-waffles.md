@@ -1,5 +1,6 @@
 ---
 title: Belgian Waffles
+slug: belgian-waffles
 ingredients:
   - 1 1/2 cups all-purpose flour
   - 1/2 cup cornstarch

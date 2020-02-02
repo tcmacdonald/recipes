@@ -1,5 +1,6 @@
 ---
 title: Cheese Grits
+slug: cheese-grits
 image_url: https://cdn2.pepperplate.com/recipes/9ac93ec8e717443f83acf962342b7241.jpg
 ingredients:
   - 4 cups low-sodium chicken broth

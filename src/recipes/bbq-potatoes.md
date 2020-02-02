@@ -1,5 +1,6 @@
 ---
 title: BBQ potatoes
+slug: bbq-potatoes
 image_url: https://cdn2.pepperplate.com/recipes/cad584fc3a144ccc9320ab3772e5c5d3.jpg
 ingredients:
   - 1 1/2 pound potatoes (equal sized)

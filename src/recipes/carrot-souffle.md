@@ -1,5 +1,6 @@
 ---
 title: Carrot Souffle
+slug: carrot-souffle
 image_url: https://cdn2.pepperplate.com/recipes/c7e7d5f54eaf44e4a80ea4ea26d2ba5a.jpg
 source_name: All Recipes
 source_url: http://allrecipes.com/recipe/carrot-souffle-2/

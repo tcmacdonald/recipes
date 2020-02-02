@@ -1,5 +1,6 @@
 ---
 title: Arroz A La Mexicana
+slug: arroz-a-la-mexicana
 image_url: https://cdn2.pepperplate.com/recipes/4038fa6629484ccd9c641e84e8b133c5.jpg
 ingredients:
   - 2 ripe tomatoes (about 12 ounces), cored and quartered or 1 can (16.5 ounce) of diced tomatoes, well drained

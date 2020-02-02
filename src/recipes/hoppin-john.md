@@ -1,5 +1,6 @@
 ---
 title: Hoppin' John
+slug: hoppin-john
 source_name: Alfalfa
 source_url: http://blogs.courier-journal.com/recipes/2009/02/12/alfalfa-restaurants-hoppin-john-rice/
 ingredients:

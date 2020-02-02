@@ -1,5 +1,6 @@
 ---
 title: Homemade Bagels
+slug: homemade-bagels-recipe-on-food52-com
 image_url: https://cdn2.pepperplate.com/recipes/a4ceea681d6c4ce1b884a0724b41f52a.jpg
 source_name: Food 52
 source_url: http://food52.com/recipes/22934-homemade-bagels

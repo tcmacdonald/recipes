@@ -1,5 +1,6 @@
 ---
 title: Turkey Gravy
+slug: turkey-gravy
 image_url: https://cdn2.pepperplate.com/recipes/c7894593906e45bca3e04fc3877fc265.jpg
 source_name: The Pioneer Woman
 source_url: http://thepioneerwoman.com/cooking/2007/10/turkey_gravy_baby/

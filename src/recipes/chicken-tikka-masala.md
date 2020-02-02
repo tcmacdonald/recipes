@@ -1,5 +1,6 @@
 ---
 title: Chicken Tikka Masala
+slug: chicken-tikka-masala
 source_name: The Happy Foodie
 source_url: http://thehappyfoodie.co.uk/recipes/madhurs-chicken-tikka-masala
 ingredients:

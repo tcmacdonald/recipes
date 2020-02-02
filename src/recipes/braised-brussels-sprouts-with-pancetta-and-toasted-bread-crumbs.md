@@ -1,5 +1,6 @@
 ---
 title: Braised Brussels Sprouts with Pancetta and Toasted Bread Crumbs
+slug: braised-brussels-sprouts-with-pancetta-and-toasted-bread-crumbs
 image_url:
 source_name: NYTimes
 source_url: http://www.nytimes.com/recipes/236/braised-brussels-sprouts-with-pancetta-and-toasted-bread-crumbs.html

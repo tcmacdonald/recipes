@@ -1,5 +1,6 @@
 ---
 title: Korean Beef
+slug: korean-beef
 ingredients:
   - 1 pound lean ground beef ⅓ cup brown sugar
   - 1/4 cup soy sauce

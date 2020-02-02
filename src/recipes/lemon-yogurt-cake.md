@@ -1,5 +1,6 @@
 ---
 title: Lemon Yogurt Cake
+slug: lemon-yogurt-cake
 source_name: Food Network
 source_url: http://www.foodnetwork.com/recipes/ina-garten/lemon-yogurt-cake-recipe/index.html
 ingredients:

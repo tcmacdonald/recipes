@@ -1,5 +1,6 @@
 ---
 title: Low Fat Blueberry Pie
+slug: low-fat-blueberry-pie
 ingredients:
   - 5 cups fresh or frozen blueberries
   - 1 (9-inch) reduced-fat graham-cracker crust

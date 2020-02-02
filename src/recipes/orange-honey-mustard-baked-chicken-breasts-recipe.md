@@ -1,5 +1,6 @@
 ---
 title: Orange-Honey-Mustard Baked Chicken Breasts Recipe
+slug: orange-honey-mustard-baked-chicken-breasts-recipe
 image_url: https://cdn2.pepperplate.com/recipes/901eb0ce9c0948a2af49cc7ac42fcaa2.jpg
 source_name: Chow
 source_url: http://www.chow.com/recipes/30560-orange-honey-mustard-baked-chicken-breasts

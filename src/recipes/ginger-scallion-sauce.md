@@ -1,5 +1,6 @@
 ---
 title: Ginger Scallion Sauce
+slug: ginger-scallion-sauce
 image_url: https://cdn2.pepperplate.com/recipes/db72f15a50c3427f86ccce7f01cff428.jpg
 source_name: NYTimes
 source_url: http://www.nytimes.com/2012/01/15/magazine/recipe-momofuku-bo-ssam.html?_r=0

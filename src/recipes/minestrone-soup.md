@@ -1,5 +1,6 @@
 ---
 title: Minestrone Soup
+slug: minestrone-soup
 source_name: Jamie Oliver
 source_url: http://www.jamieoliver.com/us/foundation/jamies-food-revolution/recipes/MINESTRONE_SOUP
 ingredients:

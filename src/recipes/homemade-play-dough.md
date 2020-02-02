@@ -1,5 +1,6 @@
 ---
 title: Homemade Play Dough
+slug: homemade-play-dough
 ingredients:
   - 1 cup white flour
   - 1/2 cup salt

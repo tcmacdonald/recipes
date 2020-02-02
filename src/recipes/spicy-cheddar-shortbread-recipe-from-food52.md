@@ -1,5 +1,6 @@
 ---
 title: Spicy Cheddar Shortbread Recipe From Food52
+slug: spicy-cheddar-shortbread-recipe-from-food52
 image_url: https://cdn2.pepperplate.com/recipes/6cf8fa7acac14a1a9c634913d88e9606.jpg
 source_name: Food 52
 source_url: http://food52.com/recipes/22617-spicy-cheddar-shortbread

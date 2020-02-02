@@ -1,5 +1,6 @@
 ---
 title: Chorizo and White Bean Stew
+slug: chorizo-and-white-bean-stew
 image_url: https://cdn2.pepperplate.com/recipes/f0a1168c8012461b8cd0ece3f2e1d777.jpg
 source_name: Epicurious
 source_url: http://www.epicurious.com/recipes/food/views/Chorizo-and-White-Bean-Stew-51143230#ixzz2PyfwQjfl

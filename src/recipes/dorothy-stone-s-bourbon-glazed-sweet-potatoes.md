@@ -1,5 +1,6 @@
 ---
 title: Dorothy Stone's Bourbon-Glazed Sweet Potatoes
+slug: dorothy-stone-s-bourbon-glazed-sweet-potatoes
 source_name: NYTimes
 source_url: http://www.nytimes.com/recipes/312/dorothy-stones-bourbon-glazed-sweet-potatoes.html
 ingredients:

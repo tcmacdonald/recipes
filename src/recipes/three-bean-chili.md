@@ -1,5 +1,6 @@
 ---
 title: Three-Bean Chili
+slug: three-bean-chili
 source_name: Bunky Cooks
 source_url: http://www.bunkycooks.com/2012/04/interview-with-chef-ming-tsai-of-blue-ginger-wellesley-ma-and-a-recipe-for-three-bean-chili/
 ingredients:

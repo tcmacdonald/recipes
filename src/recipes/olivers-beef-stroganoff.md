@@ -1,5 +1,6 @@
 ---
 title: Olivers Beef Stroganoff
+slug: olivers-beef-stroganoff
 ingredients:
   - 300 g 10-minute wholegrain or basmati rice
   - 1/2 bunch fresh thyme

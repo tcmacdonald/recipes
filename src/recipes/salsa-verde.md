@@ -1,5 +1,6 @@
 ---
 title: Salsa Verde
+slug: salsa-verde
 image_url: https://cdn2.pepperplate.com/recipes/e78537686d1a46b0921130723deb042d.jpg
 source_name: Food 52
 source_url: http://food52.com/recipes/22530-cooked-green-salsa-salsa-verde

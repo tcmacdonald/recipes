@@ -1,5 +1,6 @@
 ---
 title: New York Style Bagels
+slug: new-york-style-bagels
 source_name: Sophisticated Gourmet
 source_url: http://www.sophisticatedgourmet.com/2009/10/new-york-style-bagel-recipe/
 ingredients:

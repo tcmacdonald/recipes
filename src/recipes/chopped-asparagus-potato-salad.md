@@ -1,5 +1,6 @@
 ---
 title: Chopped Asparagus Potato Salad
+slug: chopped-asparagus-potato-salad
 image_url: https://cdn2.pepperplate.com/recipes/261c8ef5c4c94eeeac219e2e67c1882c.jpg
 source_name: Domaine Home
 source_url: http://www.domainehome.com/recipe-of-the-week-chopped-asparagus-potato-salad/?cat=living

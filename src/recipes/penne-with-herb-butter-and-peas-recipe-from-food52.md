@@ -1,5 +1,6 @@
 ---
 title: Penne with Herb Butter and Peas Recipe From Food52
+slug: penne-with-herb-butter-and-peas-recipe-from-food52
 image_url: https://cdn2.pepperplate.com/recipes/b5f796da7c2f472a9bbc3790ece5751a.jpg
 source_name: Food 52
 source_url: http://food52.com/recipes/22871-penne-with-herb-butter-and-peas

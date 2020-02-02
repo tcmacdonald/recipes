@@ -1,5 +1,6 @@
 ---
 title: Crunchy Bok Choy Slaw
+slug: crunchy-bok-choy-slaw
 image_url: https://cdn2.pepperplate.com/recipes/9410ae3fcc374d90a7ccec1773592ac7.jpg
 source_name: Delish
 source_url: http://www.delish.com/recipefinder/crunchy-bok-choy-slaw-recipe-5767

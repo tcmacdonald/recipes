@@ -1,5 +1,6 @@
 ---
 title: Kale Fried Rice For One
+slug: kale-fried-rice-for-one
 image_url: https://cdn2.pepperplate.com/recipes/712bfd7e962c40dbbbadd495e7739ddb.jpg
 ingredients:
   - 1 generous tablespoon oil
