@@ -13,4 +13,9 @@ ingredients:
   - 1/4 cup grated parmesan cheese salt and black pepper
 ---
 
-* In saucepan over low heat, melt butter. Mix in the cream cheese and stir until melted. Stir in the cream and garlic powder. Increase the heat and bring to a boil. Decrease the heat and simmer, stirring often. If sauce seems too thin, sprinkle in some flour 1 teaspoon at a time. Cook and stir for desired consistency. Stir in the parmesan cheese and season with salt and pepper. You should have a nice creamy alfredo sauce for the pizza.
+* In saucepan over low heat, melt butter. 
+* Mix in the cream cheese and stir until melted. 
+* Stir in the cream and garlic powder. Increase the heat and bring to a boil. 
+* Decrease the heat and simmer, stirring often. If sauce seems too thin, sprinkle in some flour 1 teaspoon at a time. 
+* Cook and stir for desired consistency. 
+* Stir in the parmesan cheese and season with salt and pepper.
