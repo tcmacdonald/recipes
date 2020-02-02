@@ -6,7 +6,7 @@ ingredients:
   - 1 cup uncooked brown rice
   - 1 white onion, quartered
   - 4 cloves garlic
-  - 1 -inch piece fresh ginger root, roughly chopped
+  - 1 inch piece fresh ginger root, roughly chopped
   - 2 Tbs. tomato paste
   - 1 1/2 Tbs. garam masala
   - 2 Tbs. fresh lemon juice

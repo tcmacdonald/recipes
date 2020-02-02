@@ -1,6 +1,6 @@
 ---
-title: Spring Pea and Farro Soup Recipe From Food52
-slug: spring-pea-and-farro-soup-recipe-from-food52
+title: Spring Pea and Farro Soup
+slug: spring-pea-and-farro-soup
 image_url: https://cdn2.pepperplate.com/recipes/3612e12bc3c24c71a98a2c7926512e70.jpg
 source_name: Food 52
 source_url: http://food52.com/recipes/22171-spring-pea-and-farro-soup

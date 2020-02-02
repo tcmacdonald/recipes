@@ -16,7 +16,7 @@ ingredients:
   - 3 Ounce Package
   - 1 Tablespoon Sesame Seeds + More For Garnish
   - 1/2 cups Slivered Almonds
-  - 1 whole Lime, Juiced FOR THE DRESSING:
+  - 1 whole Lime
   - 1 clove Garlic, Minced
   - 2 Fresno Peppers, Seeded And Minced
   - 1 teaspoon Ginger, Freshly Microplane Grated

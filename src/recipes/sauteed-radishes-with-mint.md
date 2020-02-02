@@ -1,6 +1,6 @@
 ---
-title: Sauteed Radishes with Mint Recipe From Food52
-slug: sauteed-radishes-with-mint-recipe-from-food52
+title: Sauteed Radishes with Mint Recipe
+slug: sauteed-radishes-with-mint
 image_url: https://cdn2.pepperplate.com/recipes/42c1c6ac6e534c55bb1efdddafeff0d3.jpg
 source_name: Food 52
 source_url: http://food52.com/recipes/6606-sauteed-radishes-with-mint

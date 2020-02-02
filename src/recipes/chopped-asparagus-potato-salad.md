@@ -16,7 +16,7 @@ ingredients:
   - 3 garlic cloves
   - 1/4 bunch fresh cilantro, leaves plucked
   - 2 tablespoon tarragon, roughly chopped
-  - 1 poblano pepper (hint: it’s the large dark green one)
+  - 1 poblano pepper (it’s the large dark green one)
 ---
 
 * First make the salsa verde: Heat oven to 450 F. Peel the papery shell off the tomatillos with your hands, then rinse them tomatillos. (Note: they’re surprisingly sticky-this is normal). Arrange on a baking sheet.

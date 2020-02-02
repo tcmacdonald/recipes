@@ -14,7 +14,7 @@ ingredients:
   - 1/2 cup all-purpose flour
   - 6 large eggs, lightly beaten Canola, safflower or peanut oil for frying
   - 1/4 cup ketchup
-  - 1 1/2 tablespoons Worcestershire sauce (note: this is not vegetarian)
+  - 1 1/2 tablespoons Worcestershire sauce (note, this is not vegetarian)
   - 1/4 teaspoon dijon mustard
   - 1 tablespoon rice cooking wine or sake
   - 1 teaspoon soy sauce

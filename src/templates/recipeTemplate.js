@@ -1,15 +1,19 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-export default function Template({
-  data, // this prop will be injected by the GraphQL query below.
-}) {
-  const { markdownRemark } = data // data.markdownRemark holds your post data
+export default function Template(props) {
+  const { markdownRemark } = props.data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
+
+  console.log(frontmatter)
+  const ingredients = (frontmatter.ingredients || []).map((el,i) => {
+    return (<li key={i}>{el}</li>)
+  })
   return (
     <div className="recipe-container">
       <div className="recipe">
         <h1>{frontmatter.title}</h1>
+        <ol>{ingredients}</ol>
         <div
           className="recipe-content"
           dangerouslySetInnerHTML={{ __html: html }}
@@ -20,11 +24,12 @@ export default function Template({
 }
 
 export const pageQuery = graphql`
-  query($path: String!) {
-    markdownRemark(frontmatter: { path: { eq: $path } }) {
+  query($slug: String!) {
+    markdownRemark(frontmatter: { slug: { eq: $slug } }) {
       html
       frontmatter {
         title
+        ingredients
       }
     }
   }

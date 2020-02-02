@@ -1,6 +1,6 @@
 ---
-title: Pickled Strawberry Jam Recipe From Food52
-slug: pickled-strawberry-jam-recipe-from-food52
+title: Pickled Strawberry Jam
+slug: pickled-strawberry-jam
 image_url: https://cdn2.pepperplate.com/recipes/688de44ba6ac41ffb86e67b460e8b36a.jpg
 source_name:  Food 52
 source_url: http://food52.com/recipes/22505-pickled-strawberry-jam
