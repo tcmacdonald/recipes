@@ -2,7 +2,9 @@ import React from "react"
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
 import Layout from "../components/layout"
+import Container from "../components/container"
 import SEO from "../components/seo"
+import '../styles/recipe.scss'
 
 export default function Template(props) {
   const { markdownRemark, allFile } = props.data // data.markdownRemark holds your post data
@@ -24,23 +26,26 @@ export default function Template(props) {
   return (
     <Layout>
       <SEO title="Recipe" />
-      <div className="recipe-container">
-        <div className="recipe">
-          <header style={{ display: 'flex', borderBottom: '1px solid lightgray', paddingBottom: '1rem', marginBottom: '1rem' }}>
-            {tn && (<Img fixed={tn.childImageSharp.fixed} />)}
-            <div style={{ padding: '1rem' }}>
-              <h1>{frontmatter.title}</h1>
-              <p><a href={frontmatter.source_url}>{frontmatter.source_name}</a></p>
-            </div>
-          </header>
-          <ul>{ingredients}</ul>
-          <hr />
-          <div
-            className="recipe-content"
-            dangerouslySetInnerHTML={{ __html: html }}
-          />
+      {tn && (<div className="tn-xs"><Img fluid={tn.childImageSharp.fluid} /></div>)}
+      <Container>
+        <div className="recipe-container">
+          <div className="recipe">
+            <header style={{ display: 'flex', borderBottom: '1px solid lightgray', marginBottom: '1rem' }}>
+              {tn && (<div className="tn"><Img fluid={tn.childImageSharp.fluid} /></div>)}
+              <div style={{ padding: tn ? '1rem' : 0 }}>
+                <h1 style={{fontSize: '160%'}}>{frontmatter.title}</h1>
+                {frontmatter.source_name && <p><a href={frontmatter.source_url}>{frontmatter.source_name}</a></p>}
+              </div>
+            </header>
+            <ul>{ingredients}</ul>
+            <hr />
+            <div
+              className="recipe-content"
+              dangerouslySetInnerHTML={{ __html: html }}
+            />
+          </div>
         </div>
-      </div>
+      </Container>
     </Layout>
   )
 }
@@ -62,7 +67,10 @@ export const pageQuery = graphql`
         node {
           base
           childImageSharp {
-            fixed(width: 150, height: 150) {
+            fluid(maxHeight: 300) {
+              ...GatsbyImageSharpFluid
+            }
+            fixed(width: 125, height: 125) {
               ...GatsbyImageSharpFixed
             }
           }

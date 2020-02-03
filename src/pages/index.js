@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import { graphql } from 'gatsby'
 import { Link } from "gatsby"
 import Layout from "../components/layout"
+import Container from "../components/container"
 import SEO from "../components/seo"
 
 export default class index extends Component {
@@ -19,7 +20,9 @@ export default class index extends Component {
     return (
       <Layout>
         <SEO title="Home" />
-        <ol>{this.recipes()}</ol>
+        <Container>
+          <ol>{this.recipes()}</ol>
+        </Container>
       </Layout>
     );
   }

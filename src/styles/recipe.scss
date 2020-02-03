@@ -1,0 +1,12 @@
+.tn {
+  display: none;
+  min-width: 125px;
+}
+@media(min-width: 990px) {
+  .tn-xs {
+    display: none;
+  }
+  .tn {
+    display: block;
+  }
+}
