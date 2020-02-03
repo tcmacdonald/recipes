@@ -1,6 +1,7 @@
 ---
 title: Seven Day Sweets
 slug: seven-day-sweets
+thumbnail: 457342b09b17497dbce787fe8092a6ab.jpg
 image_url: https://cdn2.pepperplate.com/recipes/457342b09b17497dbce787fe8092a6ab.jpg
 source_name: Food 52
 source_url: http://food52.com/recipes/22444-seven-day-sweets-luvey-s-sweet-pickles

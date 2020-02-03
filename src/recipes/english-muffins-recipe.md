@@ -1,6 +1,7 @@
 ---
 title: English Muffins
 slug: english-muffins-recipe
+thumbnail: d4fc01abce4f41ae96115f7563325f49.jpg
 image_url: https://cdn2.pepperplate.com/recipes/d4fc01abce4f41ae96115f7563325f49.jpg
 source_name: Food 52
 source_url: http://food52.com/recipes/22478-english-muffins

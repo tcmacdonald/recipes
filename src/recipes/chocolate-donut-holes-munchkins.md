@@ -1,6 +1,7 @@
 ---
 title: Chocolate Donut Holes (Munchkins) Recipe On Food52.Com
 slug: chocolate-donut-holes-munchkins-recipe-on-food52-com
+thumbnail: 315573ed035e481aa2bbe1054a9b8524.jpg
 image_url: https://cdn2.pepperplate.com/recipes/315573ed035e481aa2bbe1054a9b8524.jpg
 source_name: Food 52
 source_url: http://food52.com/recipes/32042-chocolate-donut-holes-munchkins

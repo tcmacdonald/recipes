@@ -1,6 +1,7 @@
 ---
 title: Strawberry Sparkle Cake
 slug: strawberry-sparkle-cake
+thumbnail: 6071e9ede89b496b903fc62e08a10b9b.jpg
 image_url: https://cdn2.pepperplate.com/recipes/6071e9ede89b496b903fc62e08a10b9b.jpg
 source_name: The Pioneer Woman
 source_url: http://thepioneerwoman.com/cooking/2012/07/strawberry-sparkle-cake/

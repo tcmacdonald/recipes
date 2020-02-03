@@ -1,6 +1,7 @@
 ---
 title: Rainbow Slaw
 slug: rainbow-slaw
+thumbnail: ae6e79e593984bccaa8e8596a4d7e355.jpg
 image_url: https://cdn2.pepperplate.com/recipes/ae6e79e593984bccaa8e8596a4d7e355.jpg
 source_name: Marcus Samuelsson
 source_url: http://www.gq.com/story/chef-marcus-samuelssons-harlem-approved-fried-chicken

@@ -1,6 +1,7 @@
 ---
 title: Quick and Easy Roasted Red Pepper Pasta
 slug: quick-and-easy-roasted-red-pepper-pasta
+thumbnail: 27226219334c4564bbe34ef2ba6f731c.jpg
 image_url: https://cdn2.pepperplate.com/recipes/27226219334c4564bbe34ef2ba6f731c.jpg
 source_name: The Pioneer Woman
 source_url: http://thepioneerwoman.com/cooking/2013/05/quick-and-easy-roasted-red-pepper-pasta/

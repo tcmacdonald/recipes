@@ -1,6 +1,7 @@
 ---
 title: Japanese Vegetable Pancakes
 slug: japanese-vegetable-pancakes
+thumbnail: 988e211ec52644d3b0646af0b8c64992.jpg
 image_url: https://cdn2.pepperplate.com/recipes/988e211ec52644d3b0646af0b8c64992.jpg
 source_name: Smitten Kitchen
 source_url: http://smittenkitchen.com/blog/2013/05/japanese-cabbage-and-vegetable-pancakes/

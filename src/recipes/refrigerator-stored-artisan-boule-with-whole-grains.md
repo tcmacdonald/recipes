@@ -1,6 +1,7 @@
 ---
 title: Refrigerator-Stored Artisan Boule with Whole Grains
 slug: refrigerator-stored-artisan-boule-with-whole-grains
+thumbnail: 78afac776ae14c09813e20175e3ccce5.jpg
 image_url: https://cdn2.pepperplate.com/recipes/78afac776ae14c09813e20175e3ccce5.jpg
 source_name: Splendid Table
 source_url: http://www.splendidtable.org/recipes/refrigerator-stored-artisan-boule-with-whole-grains

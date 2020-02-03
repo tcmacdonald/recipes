@@ -1,6 +1,7 @@
 ---
 title: Stracciatella Gelato
 slug: stracciatella-gelato
+thumbnail: c6a73f761e3f4aefab17cb20d1ba3af9.jpg
 image_url: https://cdn2.pepperplate.com/recipes/c6a73f761e3f4aefab17cb20d1ba3af9.jpg
 source_name: Love and Olive Oil
 source_url: http://www.loveandoliveoil.com/2014/06/straciatella-gelato.html

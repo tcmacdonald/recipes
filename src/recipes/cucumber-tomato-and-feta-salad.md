@@ -1,6 +1,7 @@
 ---
 title: Cucumber, Tomato and Feta Salad
 slug: cucumber-tomato-and-feta-salad
+thumbnail: cdcb58cb991c40e1aecf116b95d0c988.jpg
 image_url: https://cdn2.pepperplate.com/recipes/cdcb58cb991c40e1aecf116b95d0c988.jpg
 source_name: Epicurious
 source_url: http://www.epicurious.com/recipes/food/views/Cucumber-Tomato-and-Feta-Salad-365671#ixzz2PygrYT5J

@@ -1,6 +1,7 @@
 ---
 title: Chicken and Dumplings
 slug: chicken-and-dumplings
+thumbnail: a37d4e108f96497bb3db98bc49ad2860.jpg
 image_url: https://cdn2.pepperplate.com/recipes/a37d4e108f96497bb3db98bc49ad2860.jpg
 source_name: The Pioneer Woman
 source_url: http://thepioneerwoman.com/cooking/2010/12/chicken-and-dumplings/

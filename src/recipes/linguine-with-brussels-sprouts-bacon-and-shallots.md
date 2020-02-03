@@ -1,6 +1,7 @@
 ---
 title: Linguine with Brussels Sprouts, Bacon, and Shallots
 slug: linguine-with-brussels-sprouts-bacon-and-shallots
+thumbnail: 5e68b99969474877978d55efc2a1a66a.jpg
 image_url: https://cdn2.pepperplate.com/recipes/5e68b99969474877978d55efc2a1a66a.jpg
 source_name: Good Life Eats
 source_url: http://www.goodlifeeats.com/2010/06/linguine-with-brussels-sprouts-bacon-and-shallots.html

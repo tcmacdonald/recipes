@@ -1,6 +1,7 @@
 ---
 title: Chicken Cutlets Grilled in Charmoula with Quick-Cured Lemon Confit
 slug: chicken-cutlets-grilled-in-charmoula-with-quick-cured-lemon-confit
+thumbnail: d7c2b5d0c00f47d8ba67d20d4df69e05.jpg
 image_url: https://cdn2.pepperplate.com/recipes/d7c2b5d0c00f47d8ba67d20d4df69e05.jpg
 source_name: Food 52
 source_url: http://food52.com/recipes/13175-chicken-cutlets-grilled-in-charmoula-with-quick-cured-lemon-confit

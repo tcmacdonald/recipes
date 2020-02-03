@@ -1,6 +1,7 @@
 ---
 title: Crunchy Black Bean Tacos
 slug: crunchy-black-bean-tacos
+thumbnail: 3fac97ddce9f4faf8db4ca58c0cb285b.jpg
 image_url: https://cdn2.pepperplate.com/recipes/3fac97ddce9f4faf8db4ca58c0cb285b.jpg
 source_name: Endless Simmer
 source_url: http://www.endlesssimmer.com/2012/04/04/cornerstone-cooking-crunchy-black-bean-tacos/

@@ -1,6 +1,7 @@
 ---
 title: Turkey Brine
 slug: turkey-brine
+thumbnail: 431a66e9deda477c8bd69b63eb643581.jpg
 image_url: https://cdn2.pepperplate.com/recipes/431a66e9deda477c8bd69b63eb643581.jpg
 source_name: The Pioneer Woman
 source_url: http://thepioneerwoman.com/cooking/2010/10/my-favorite-turkey-brine/

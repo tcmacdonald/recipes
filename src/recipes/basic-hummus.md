@@ -1,6 +1,7 @@
 ---
 title: Basic Hummus
 slug: yotam-ottolenghi-sami-tamimi-s-basic-hummus
+thumbnail: 65883167ec554116ba968930521a1b3b.jpg
 image_url: https://cdn2.pepperplate.com/recipes/65883167ec554116ba968930521a1b3b.jpg
 source_name: Food52
 source_url: http://food52.com/recipes/22888-yotam-ottolenghi-sami-tamimi-s-basic-hummus

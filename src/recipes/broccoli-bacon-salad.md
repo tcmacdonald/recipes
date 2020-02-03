@@ -1,6 +1,7 @@
 ---
 title: Broccoli-Bacon Salad
 slug: broccoli-bacon-salad
+thumbnail: b0ba5580645f4f03a19073dc68431fe3.jpg
 image_url: https://cdn2.pepperplate.com/recipes/b0ba5580645f4f03a19073dc68431fe3.jpg
 source_name: Delish
 source_url: http://www.delish.com/recipefinder/broccoli-bacon-salad-recipe-6461

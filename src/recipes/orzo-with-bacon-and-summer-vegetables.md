@@ -1,6 +1,7 @@
 ---
 title: Orzo with Bacon and Summer Vegetables
 slug: orzo-with-bacon-and-summer-vegetables
+thumbnail: c3533ba024d2401eb7d65624862194b4.jpg
 image_url: https://cdn2.pepperplate.com/recipes/c3533ba024d2401eb7d65624862194b4.jpg
 source_name: Bev Cooks
 source_url: http://bevcooks.com/2013/06/orzo-with-bacon-and-summer-vegetables/

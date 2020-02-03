@@ -1,6 +1,7 @@
 ---
 title: Sourdough Bread
 slug: sourdough-bread
+thumbnail: f91543b5cca0410ca565cef037fb9955.jpg
 image_url: https://cdn2.pepperplate.com/recipes/f91543b5cca0410ca565cef037fb9955.jpg
 source_name: The Clever Carrot
 source_url: http://www.theclevercarrot.com/2014/01/sourdough-bread-a-beginners-guide/

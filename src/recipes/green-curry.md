@@ -1,6 +1,7 @@
 ---
 title: Green Curry
 slug: green-curry
+thumbnail: e90466b4ab60471593abb1e4af9e4f24.jpg
 image_url: https://cdn2.pepperplate.com/recipes/e90466b4ab60471593abb1e4af9e4f24.jpg
 ingredients:
   - 1 Tbsp coconut or olive oil

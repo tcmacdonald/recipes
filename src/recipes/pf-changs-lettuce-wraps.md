@@ -1,6 +1,7 @@
 ---
 title: PF Changs Lettuce Wraps
 slug: pf-changs-lettuce-wraps
+thumbnail: 38a46446f55d49419b6d00aa9b10fd3f.jpg
 image_url: https://cdn2.pepperplate.com/recipes/38a46446f55d49419b6d00aa9b10fd3f.jpg
 ingredients:
   - 1 lb ground chicken breast

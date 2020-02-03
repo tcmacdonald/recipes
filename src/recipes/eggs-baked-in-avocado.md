@@ -1,6 +1,7 @@
 ---
 title: Eggs Baked in Avocado
 slug: eggs-baked-in-avocado
+thumbnail: 95a9f928e2cd4a3f85ca8467bc943e88.jpg
 image_url: https://cdn2.pepperplate.com/recipes/95a9f928e2cd4a3f85ca8467bc943e88.jpg
 source_name: Serious Eats
 source_url: http://www.seriouseats.com/recipes/2013/04/eggs-baked-in-avocado-recipe.html

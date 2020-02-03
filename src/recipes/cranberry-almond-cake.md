@@ -1,6 +1,7 @@
 ---
 title: Cranberry Almond Cake
 slug: cranberry-almond-cake
+thumbnail: c63ac7eab0f94d82a9c33e24d5e73c86.jpg
 image_url: https://cdn2.pepperplate.com/recipes/c63ac7eab0f94d82a9c33e24d5e73c86.jpg
 source_name: Dulanotes
 source_url: http://dulanotes.com/cranberry-almond-cake/

@@ -1,6 +1,7 @@
 ---
 title: Beef Stroganoff
 slug: beef-stroganoff
+thumbnail: 418147c73c744daaa221961ba1e1db35.jpg
 image_url: https://cdn2.pepperplate.com/recipes/418147c73c744daaa221961ba1e1db35.jpg
 source_name: Food Network
 source_url: http://www.foodnetwork.com/recipes/paula-deen/beef-stroganoff-recipe.html

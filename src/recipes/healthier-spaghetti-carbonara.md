@@ -1,6 +1,7 @@
 ---
 title: Healthier Spaghetti Carbonara
 slug: healthier-spaghetti-carbonara
+thumbnail: 65390c2dfff64bfca599cb98dc42dcee.jpg
 image_url: https://cdn2.pepperplate.com/recipes/65390c2dfff64bfca599cb98dc42dcee.jpg
 source_name: Fit Sugar
 source_url: http://www.fitsugar.com/Healthy-Spaghetti-Carbonara-Recipe-25481801/

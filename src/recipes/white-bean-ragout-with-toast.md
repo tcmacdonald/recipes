@@ -1,6 +1,7 @@
 ---
 title: White Bean Ragout with Toast
 slug: white-bean-ragout-with-toast
+thumbnail: ab58ee4650b84bec8d59671fb3c4ef91.jpg
 image_url: https://cdn2.pepperplate.com/recipes/ab58ee4650b84bec8d59671fb3c4ef91.jpg
 source_name: Epicurious
 source_url: http://www.epicurious.com/recipes/food/views/White-Bean-Ragout-with-Toast-395436#ixzz2PyeHuVhm

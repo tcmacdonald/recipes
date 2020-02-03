@@ -1,6 +1,7 @@
 ---
 title: Carbonara
 slug: carbonara
+thumbnail: f45ed1a1f6dd4f78901ebd4a81ba8e68.jpg
 image_url: https://cdn2.pepperplate.com/recipes/f45ed1a1f6dd4f78901ebd4a81ba8e68.jpg
 ingredients:
   - 1/2 cup diced applewood-smoked bacon

@@ -1,6 +1,7 @@
 ---
 title: Cornbread and Apple Stuffing Recipe
 slug: cornbread-and-apple-stuffing-recipe
+thumbnail: 00c7b85753954a9789deff1486ea7161.jpg
 image_url: https://cdn2.pepperplate.com/recipes/00c7b85753954a9789deff1486ea7161.jpg
 source_name: Chow
 source_url: http://www.chow.com/recipes/30504-cornbread-and-apple-stuffing

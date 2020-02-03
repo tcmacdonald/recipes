@@ -1,6 +1,7 @@
 ---
 title: Beef Short Ribs with Potato-Carrot Mash
 slug: beef-short-ribs-with-potato-carrot-mash
+thumbnail: ffa9d6529df84090bcc71a7cf88e0e0a.jpg
 image_url: https://cdn2.pepperplate.com/recipes/ffa9d6529df84090bcc71a7cf88e0e0a.jpg
 source_name: Martha Stewart
 source_url: http://www.marthastewart.com/925571/beef-short-ribs-potato-carrot-mash

@@ -1,6 +1,7 @@
 ---
 title: Jellied Cranberry Sauce with Fuji Apple
 slug: jellied-cranberry-sauce-with-fuji-apple
+thumbnail: 97ac6ab2150b49ef9e35bc7bb24e32c1.jpg
 image_url: https://cdn2.pepperplate.com/recipes/97ac6ab2150b49ef9e35bc7bb24e32c1.jpg
 source_name: Food and Wine
 source_url: http://www.foodandwine.com/recipes/jellied-cranberry-sauce-with-fuji-apple

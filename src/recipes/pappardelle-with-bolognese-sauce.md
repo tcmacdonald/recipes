@@ -1,6 +1,7 @@
 ---
 title: Pappardelle with Bolognese Sauce
 slug: pappardelle-with-bolognese-sauce
+thumbnail: 3d0edf83dbdb4b55b540bec65114001d.jpg
 image_url: https://cdn2.pepperplate.com/recipes/3d0edf83dbdb4b55b540bec65114001d.jpg
 source_name: Williams Sonoma
 source_url: http://www.williams-sonoma.com/recipe/pappardelle-with-bolognese-sauce.html

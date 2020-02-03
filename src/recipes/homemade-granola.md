@@ -1,6 +1,7 @@
 ---
 title: Homemade Granola
 slug: homemade-granola
+thumbnail: 07879bbfe8f24067b5dc5b9ea14921ce.jpg
 image_url: https://cdn2.pepperplate.com/recipes/07879bbfe8f24067b5dc5b9ea14921ce.jpg
 source_name: Food Network
 source_url: http://www.foodnetwork.com/recipes/giada-de-laurentiis/moms-homemade-granola-recipe/index.html

@@ -1,6 +1,7 @@
 ---
 title: Mexican Style Rice
 slug: mexican-style-rice
+thumbnail: 7f65eddbcf944f808569b1f693a02b2e.jpg
 image_url: https://cdn2.pepperplate.com/recipes/7f65eddbcf944f808569b1f693a02b2e.jpg
 source_name: Pati's Mexican Table
 source_url: http://patismexicantable.com/2009/06/red_rice_from_el_chepe/

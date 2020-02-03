@@ -7,7 +7,11 @@ import SEO from "../components/seo"
 export default class index extends Component {
   recipes() {
     return this.props.data.allMarkdownRemark.edges.map(edge => edge.node).map((node,i) => {
-      return (<li key={i}><Link to={`/recipes/${node.frontmatter.slug}`}>{node.frontmatter.title}</Link></li>)
+      return (
+        <li key={i}>
+          <Link to={`/recipes/${node.frontmatter.slug}`}>{node.frontmatter.title}</Link>
+        </li>
+      )
     })
   }
 
@@ -29,7 +33,7 @@ export const indexQuery = graphql`
           frontmatter {
             title
             slug
-            image_url
+            thumbnail
             source_name
             source_url
           }

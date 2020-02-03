@@ -1,6 +1,7 @@
 ---
 title: Quick Green Apple “Kimchi”
 slug: quick-green-apple-kimchi
+thumbnail: ad775b38d8ec485983f56cee5e58d2bd.jpg
 image_url: https://cdn2.pepperplate.com/recipes/ad775b38d8ec485983f56cee5e58d2bd.jpg
 ingredients:
   - 2 green apples (any crisp variety)

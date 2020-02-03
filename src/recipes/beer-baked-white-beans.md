@@ -1,6 +1,7 @@
 ---
 title: Beer-Baked White Beans
 slug: beer-baked-white-beans
+thumbnail: 89ec6b68a0904c0e9081390e7253da8e.jpg
 image_url: https://cdn2.pepperplate.com/recipes/89ec6b68a0904c0e9081390e7253da8e.jpg
 source_name: The Bitten Word
 source_url: http://www.thebittenword.com/thebittenword/2011/05/beer-baked-white-beans-.html

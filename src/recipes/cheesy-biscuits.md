@@ -1,6 +1,7 @@
 ---
 title: Cheesy Biscuits
 slug: cheesy-biscuits
+thumbnail: 253d2e23177044438e11dd399427e81d.jpg
 image_url: https://cdn2.pepperplate.com/recipes/253d2e23177044438e11dd399427e81d.jpg
 ingredients:
   - 2 cups all-purpose flour

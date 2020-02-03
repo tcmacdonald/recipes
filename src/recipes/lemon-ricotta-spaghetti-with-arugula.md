@@ -1,6 +1,7 @@
 ---
 title: Lemon Ricotta Spaghetti with Arugula
 slug: lemon-ricotta-spaghetti-with-arugula
+thumbnail: 16f1e9ee09b34e3faea1981f7865fbe4.jpg
 image_url: https://cdn2.pepperplate.com/recipes/16f1e9ee09b34e3faea1981f7865fbe4.jpg
 source_name: Food 52
 source_url: http://food52.com/recipes/10425-lemon-ricotta-spaghetti-with-arugula

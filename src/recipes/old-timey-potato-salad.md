@@ -1,6 +1,7 @@
 ---
 title: Old Timey Potato Salad
 slug: old-timey-potato-salad
+thumbnail: fe7daffabc864268975c6e38288b73e1.jpg
 image_url: https://cdn2.pepperplate.com/recipes/fe7daffabc864268975c6e38288b73e1.jpg
 source_name: Splendid Table
 source_url: http://www.splendidtable.org/recipes/old-time-potato-salad

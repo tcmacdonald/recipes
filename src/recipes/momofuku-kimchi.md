@@ -1,6 +1,7 @@
 ---
 title: Momofuku Kimchi
 slug: momofuku-kimchi
+thumbnail: 6f379cdd71e14dbd96cacfb3bef187ea.jpg
 image_url: https://cdn2.pepperplate.com/recipes/6f379cdd71e14dbd96cacfb3bef187ea.jpg
 ingredients:
   - 1 small to medium head Napa cabbage, discolored or loose outer leaves discarded

@@ -1,6 +1,7 @@
 ---
 title: Kimchi Fried Rice
 slug: kimchi-fried-rice
+thumbnail: db9feb0dc04f47d9bf8492c98d32f975.jpg
 image_url: https://cdn2.pepperplate.com/recipes/db9feb0dc04f47d9bf8492c98d32f975.jpg
 ingredients:
   - 4 cups old cooked rice (cold)

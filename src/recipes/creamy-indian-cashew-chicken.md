@@ -1,6 +1,7 @@
 ---
 title: Creamy Indian Cashew Chicken
 slug: creamy-indian-cashew-chicken
+thumbnail: fb09c418994245c2a140c5edfa19e845.jpg
 image_url: https://cdn2.pepperplate.com/recipes/fb09c418994245c2a140c5edfa19e845.jpg
 ingredients:
   - 1 cup uncooked brown rice

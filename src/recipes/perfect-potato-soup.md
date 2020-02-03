@@ -1,6 +1,7 @@
 ---
 title: Perfect Potato Soup
 slug: perfect-potato-soup
+thumbnail: b3b95ae96ecb435c83d6570334760986.jpg
 image_url: https://cdn2.pepperplate.com/recipes/b3b95ae96ecb435c83d6570334760986.jpg
 source_name: The Pioneer Woman
 source_url: http://thepioneerwoman.com/cooking/perfect-potato-soup/

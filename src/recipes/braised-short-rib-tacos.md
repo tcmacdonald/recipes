@@ -1,6 +1,7 @@
 ---
 title: Braised Short Rib Tacos
 slug: braised-short-rib-tacos
+thumbnail: 12a23e0c66c943e6939dff3bafeea347.jpg
 image_url: https://cdn2.pepperplate.com/recipes/12a23e0c66c943e6939dff3bafeea347.jpg
 source_name: http://www.feastingathome.com/mexican-short-rib-tacos/
 source_url: http://www.feastingathome.com/mexican-short-rib-tacos/

@@ -1,6 +1,7 @@
 ---
 title: My Favorite Buttermilk Biscuits
 slug: my-favorite-buttermilk-biscuits
+thumbnail: 461c969a78c44c32ad7f9d0b907861c3.jpg
 image_url: https://cdn2.pepperplate.com/recipes/461c969a78c44c32ad7f9d0b907861c3.jpg
 source_name: Smitten Kitchen
 source_url: http://smittenkitchen.com/blog/2013/03/my-favorite-buttermilk-biscuits/

@@ -1,6 +1,7 @@
 ---
 title: Homemade Hotdog Buns
 slug: homemade-hotdog-buns
+thumbnail: edcb7e192aae4008a10016130d48de02.jpg
 image_url: https://cdn2.pepperplate.com/recipes/edcb7e192aae4008a10016130d48de02.jpg
 source_name: Tasty Kitchen
 source_url: http://tastykitchen.com/blog/2012/04/homemade-hotdog-buns/

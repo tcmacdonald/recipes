@@ -1,6 +1,7 @@
 ---
 title: Spaghettini with Arugula, Pancetta, Herbs & Eggs
 slug: spaghettini-with-arugula-pancetta-herbs-eggs
+thumbnail: 2ec309436b82453eac84d67a51a8bdd3.jpg
 image_url: https://cdn2.pepperplate.com/recipes/2ec309436b82453eac84d67a51a8bdd3.jpg
 source_name: Andrew Zimmern
 source_url: http://andrewzimmern.com/2013/06/10/spaghettini-with-arugula-pancetta-herbs-eggs/

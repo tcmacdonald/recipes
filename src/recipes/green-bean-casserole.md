@@ -1,6 +1,7 @@
 ---
 title: Green Bean Casserole
 slug: green-bean-casserole
+thumbnail: 48c956f6f59043ad8fa94bb6322859ce.jpg
 image_url: https://cdn2.pepperplate.com/recipes/48c956f6f59043ad8fa94bb6322859ce.jpg
 source_name: The Pioneer Woman
 source_url: http://thepioneerwoman.com/cooking/2010/11/green-bean-casserole/

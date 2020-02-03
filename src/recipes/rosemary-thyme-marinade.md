@@ -1,6 +1,7 @@
 ---
 title: Rosemary-Thyme Marinade
 slug: rosemary-thyme-marinade
+thumbnail: 30c3866397694481a20334a862e34239.jpg
 image_url: https://cdn2.pepperplate.com/recipes/30c3866397694481a20334a862e34239.jpg
 source_name: Food.com
 source_url: http://www.food.com/recipe/rosemary-thyme-marinade-150899

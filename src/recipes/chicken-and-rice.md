@@ -1,6 +1,7 @@
 ---
 title: Chicken and Rice
 slug: chicken-and-rice
+thumbnail: 10a4d861066242b284d404c0a09fefc0.jpg
 image_url: https://cdn2.pepperplate.com/recipes/10a4d861066242b284d404c0a09fefc0.jpg
 source_name: Food 52
 source_url: http://food52.com/recipes/22615-chicken-and-rice

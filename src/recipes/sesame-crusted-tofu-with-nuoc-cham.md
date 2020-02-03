@@ -1,6 +1,7 @@
 ---
 title: Sesame-Crusted Tofu with Nuoc Cham
 slug: sesame-crusted-tofu-with-nuoc-cham
+thumbnail: 3d9a26b9541644848b55d97c43b34956.jpg
 image_url: https://cdn2.pepperplate.com/recipes/3d9a26b9541644848b55d97c43b34956.jpg
 source_name: Alexandra Cooks
 source_url: http://www.alexandracooks.com/2013/01/02/detox-sesame-crusted-tofu-with-nuoc-cham/
