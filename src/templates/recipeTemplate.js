@@ -30,7 +30,7 @@ export default function Template(props) {
             {tn && (<Img fixed={tn.childImageSharp.fixed} />)}
             <div style={{ padding: '1rem' }}>
               <h1>{frontmatter.title}</h1>
-              <p><a href={frontmatter.source_url}>{frontmatter.source_url}</a></p>
+              <p><a href={frontmatter.source_url}>{frontmatter.source_name}</a></p>
             </div>
           </header>
           <ul>{ingredients}</ul>
