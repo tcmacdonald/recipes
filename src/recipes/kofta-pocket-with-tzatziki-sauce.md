@@ -1,6 +1,6 @@
 ---
-title: Kofta Pocket with Tzatziki Sauce Recipe On Food52.Com
-slug: kofta-pocket-with-tzatziki-sauce-recipe-on-food52-com
+title: Kofta Pocket with Tzatziki Sauce
+slug: kofta-pocket-with-tzatziki-sauce
 source_name: Food 52
 source_url: http://food52.com/recipes/3786-kofta-pocket-with-tzatziki-sauce
 ingredients:
