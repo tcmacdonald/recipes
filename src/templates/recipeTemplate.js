@@ -25,7 +25,7 @@ export default function Template(props) {
 
   return (
     <Layout>
-      <SEO title="Recipe" />
+      <SEO title={frontmatter.title} />
       {tn && (<div className="tn-xs"><Img fluid={tn.childImageSharp.fluid} /></div>)}
       <Container>
         <div className="recipe-container">
