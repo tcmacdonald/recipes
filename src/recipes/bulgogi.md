@@ -1,6 +1,9 @@
 ---
 title: Bulgogi
 slug: bulgogi
+thumbnail: bulgogi.jpg
+source_name: NYTimes
+source_url: https://cooking.nytimes.com/recipes/1017444-bulgogi-korean-grilled-beef
 ingredients:
   - 1 pound well-marbled, boneless sirloin, tenderloin or skirt steak
   - 4 large garlic cloves
@@ -14,7 +17,7 @@ ingredients:
   - 1/2 teaspoon black pepper
   - 1/2 teaspoon sesame seeds, toasted
 ---
- 
+
 Wrap beef in plastic wrap or butcher paper and place in freezer for 1 to 2 hours to firm up.
 
 Cut beef across the grain into thin slices. If cooking in a skillet, slices should be less than ⅛ inch thick; do not worry if they are a bit ragged. If cooking on the grill, uniform slices, ⅛-inch thick, are best.
