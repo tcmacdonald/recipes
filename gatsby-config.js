@@ -28,6 +28,39 @@ module.exports = {
     },
 
     {
+      resolve: "gatsby-plugin-local-search",
+      options: {
+        name: "recipes",
+        engine: "flexsearch",
+        engineOptions: "speed",
+        query: `
+          {
+            allMarkdownRemark {
+              nodes {
+                id
+                frontmatter {
+                  title
+                  slug
+                }
+                rawMarkdownBody
+              }
+            }
+          }
+        `,
+        ref: "id",
+        index: ["title", "body"],
+        store: ["id", "title", "slug"],
+        normalizer: ({ data }) =>
+          data.allMarkdownRemark.nodes.map((node) => ({
+            id: node.id,
+            slug: node.frontmatter.slug,
+            title: node.frontmatter.title,
+            body: node.rawMarkdownBody,
+          })),
+      },
+    },
+
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `recipes.macd.us.com`,

@@ -1,35 +1,63 @@
-import React, { Component } from 'react'
-import { graphql } from 'gatsby'
+import React, { useState } from "react"
+import { graphql } from "gatsby"
 import { Link } from "gatsby"
+import { useFlexSearch } from "react-use-flexsearch"
+import { SearchInput } from "evergreen-ui"
+
 import Layout from "../components/layout"
 import Container from "../components/container"
 import SEO from "../components/seo"
 
-export default class index extends Component {
-  recipes() {
-    return this.props.data.allMarkdownRemark.edges.map(edge => edge.node).map((node,i) => {
+const IndexPage = ({ data }) => {
+  const recipes = (nodes) => {
+    let recipes =
+      nodes.length === 0
+        ? data.allMarkdownRemark.edges.map((edge) => edge.node)
+        : nodes
+
+    return recipes.map((node, i) => {
       return (
         <li key={i}>
-          <Link to={`/recipes/${node.frontmatter.slug}`}>{node.frontmatter.title}</Link>
+          <Link to={`/recipes/${node.slug || node.frontmatter.slug}`}>
+            {node.title || node.frontmatter.title}
+          </Link>
         </li>
       )
     })
   }
 
-  render() {
-    return (
-      <Layout>
-        <SEO title="Home" />
-        <Container>
-          <ol>{this.recipes()}</ol>
-        </Container>
-      </Layout>
-    );
-  }
+  const [query, setQuery] = useState(null)
+  const results = useFlexSearch(
+    query,
+    data.localSearchRecipes.index,
+    data.localSearchRecipes.store
+  )
+
+  return (
+    <Layout>
+      <SEO title="Home" />
+      <Container>
+        <SearchInput
+          name="query"
+          width="100%"
+          onChange={(e) => setQuery(e.target.value)}
+        />
+        <br />
+        <br />
+        <ol>{recipes(results)}</ol>
+      </Container>
+    </Layout>
+  )
 }
+
+export default IndexPage
 
 export const indexQuery = graphql`
   {
+    localSearchRecipes {
+      index
+      store
+    }
     allMarkdownRemark {
       edges {
         node {
